@@ -5,6 +5,8 @@
 
 Este projeto tem como objetivo prever dificuldades de enfrentamento com base em dados de saúde mental. Utilizamos um conjunto de dados coletados através de um formulário e aplicamos técnicas de aprendizado de máquina para criar um modelo preditivo.
 
+Link para o notebook: [Coping Struggles Prediction](notebook/Coping_Struggles_ML.ipynb)
+
 ## Estrutura do Projeto
 
 - `backend/`: Contém o código do backend.
