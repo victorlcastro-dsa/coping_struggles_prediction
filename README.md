@@ -9,12 +9,10 @@ Link para o notebook: [Coping Struggles Prediction](notebook/Coping_Struggles_ML
 
 ## Estrutura do Projeto
 
-- `backend/`: Contém o código do backend.
 - `data/`: Contém os dados utilizados no projeto.
   - `img/`: Contém imagens relacionadas ao projeto.
   - `Mental Health Dataset.csv`: Conjunto de dados principal.
   - `Respostas ao formulário.csv`: Respostas coletadas do formulário.
-- `frontend/`: Contém o código do frontend.
 - `notebook/`: Contém notebooks Jupyter para análise e modelagem.
   - `Coping_Struggles_ML.ipynb`: Notebook principal com a análise e modelagem.
   - `final_model.joblib`: Modelo final treinado.
