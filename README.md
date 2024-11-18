@@ -26,7 +26,7 @@ Certifique-se de ter o Python 3.11.9 instalado. Você pode especificar a versão
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/coping_struggles_prediction.git
+    git clone https://github.com/victorlcastro-dsa/coping_struggles_prediction.git
     cd coping_struggles_prediction
     ```
 
